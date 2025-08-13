@@ -43,8 +43,8 @@
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridesh-thakur-762857167/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hrithakur01@gmail.com)  
+[![YouTube](https://img.shields.io/badge/-Code%20Smokerz-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@code-smokerz)  
 
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
-
