@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate *Web & App Developer* and a Computer Science Engineering student specializing in *Artificial Intelligence & Machine Learning* at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
+I'm a passionate **Web & App Developer** and a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
 
 - 🔭 I'm currently working on expanding my web development skills
 - 🌱 I'm currently learning advanced JavaScript concepts and Python for AI/ML
@@ -23,16 +23,16 @@ I'm a passionate *Web & App Developer* and a Computer Science Engineering studen
 ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Currently Learning
-- 🐍 *Python* - Expanding knowledge (Currently at 30% proficiency)
-- 🤖 *AI/ML Concepts* - Through my CSE AIML curriculum
-- 📱 *Mobile App Development*
-- 🌐 *Advanced Web Technologies*
+- 🐍 **Python** - Expanding knowledge (Currently at 30% proficiency)
+- 🤖 **AI/ML Concepts** - Through my CSE AIML curriculum
+- 📱 **Mobile App Development**
+- 🌐 **Advanced Web Technologies**
 
 ## 🎓 Education
 
-*Lakshmi Narayana College of Technology*  
-Bachelor of Technology - CSE (Artificial Intelligence & Machine Learning)  
-Currently Pursuing
+**Lakshmi Narayana College of Technology**  
+*Bachelor of Technology - CSE (Artificial Intelligence & Machine Learning)*  
+*Currently Pursuing*
 
 ## 📊 GitHub Stats
 
