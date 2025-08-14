@@ -72,8 +72,5 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
-  <p>Feel free to reach out if you want to collaborate on any project or just want to connect!</p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hridesh-Thakur&color=blue&style=flat-square)
-  
+  <p>Feel free to reach out if you want to collaborate on any project or just want to connect!</p>  
 </div>
