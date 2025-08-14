@@ -14,6 +14,12 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 - 📚 I'm a CSE AIML student, passionate about the intersection of development and AI
 - ⚡ Fun fact: I believe in learning by doing!
 
+## 🎓 Education
+
+**Lakshmi Narayana College of Technology**  
+*Bachelor of Technology - CSE (Artificial Intelligence & Machine Learning)*  
+*Currently Pursuing*
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -28,11 +34,6 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 - 📱 **Mobile App Development**
 - 🌐 **Advanced Web Technologies**
 
-## 🎓 Education
-
-**Lakshmi Narayana College of Technology**  
-*Bachelor of Technology - CSE (Artificial Intelligence & Machine Learning)*  
-*Currently Pursuing*
 
 ## 📊 GitHub Stats
 
