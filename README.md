@@ -42,11 +42,6 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hridesh-Thakur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hridesh-Thakur&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
 
 ## 💼 What I'm Working On
 
