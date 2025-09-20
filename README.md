@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web & App Developer** and a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
+I'm a passionate **Web & App Developer** and a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
 
 - 🔭 I'm currently working on expanding my web development skills
 - 🌱 I'm currently learning advanced JavaScript concepts and Python for AI/ML
