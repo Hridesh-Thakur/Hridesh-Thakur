@@ -28,6 +28,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![CPP](https://img.shields.io/badge/CPP-%231572B6.svg?style=for-the-badge&logo=CPP&logoColor=white)
 ### Currently Learning
 - 🐍 **Python** - Expanding knowledge (Currently at 30% proficiency)
 - 🤖 **AI/ML Concepts** - Through my CSE AIML curriculum
