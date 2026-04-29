@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+%26+App+Developer;CSE+AIML+Student;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
-
+ 
 ## 🚀 About Me 
 
 I'm a passionate **Web & App Developer** and a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
