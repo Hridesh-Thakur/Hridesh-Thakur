@@ -65,6 +65,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 [![Hridesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hridesh-Thakur&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
+
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
   <p>Feel free to reach out if you want to collaborate on any project or just want to connect!</p>  
