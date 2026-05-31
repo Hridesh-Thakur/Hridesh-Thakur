@@ -59,6 +59,15 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 </div>
 
+## 🌟 My Portfolio
+
+<div align="center">
+
+**Check out my live portfolio website:**  
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://hridesh-portfolio.vercel.app/)
+
+</div>
+
 
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
