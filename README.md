@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Hridesh Thakur</h1>
-       
+         
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+%26+App+Developer;CSE+AIML+Student;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
