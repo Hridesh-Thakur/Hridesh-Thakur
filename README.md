@@ -8,11 +8,11 @@
 
 I'm a passionate **Web & App Developer** and a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
 
-- 🔭 I'm currently working on expanding my web development skills
-- 🌱 I'm currently learning advanced JavaScript concepts and Python for AI/ML
-- 💡 I enjoy solving problems and building user-friendly applications
-- 📚 I'm a CSE AIML student, passionate about the intersection of development and AI
-- ⚡ Fun fact: I believe in learning by doing!
+- I'm currently working on expanding my web development skills
+- I'm currently learning advanced JavaScript concepts and Python for AI/ML
+- I enjoy solving problems and building user-friendly applications
+- I'm a CSE AIML student, passionate about the intersection of development and AI
+- Fun fact: I believe in learning by doing!
 
 ## 🎓 Education
 
@@ -32,21 +32,21 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 
 ### Currently Learning
-- 🐍 **Python** - Expanding knowledge (Currently at 30% proficiency)
-- 🤖 **AI/ML Concepts** - Through my CSE AIML curriculum
-- 📱 **Mobile App Development**
-- 🌐 **Advanced Web Technologies**
+- **Python** - Expanding knowledge (Currently at 30% proficiency)
+- **AI/ML Concepts** - Through my CSE AIML curriculum
+- **Mobile App Development**
+- **Advanced Web Technologies**
 
 
 ## 💼 What I'm Working On
 
-- 🌟 Building responsive web applications
-- 📱 Exploring mobile app development
-- 🤖 Learning AI/ML integration in web applications
-- 💻 Contributing to open-source projects
-- 📖 Documenting my learning journey
+- Building responsive web applications
+- Exploring mobile app development
+- Learning AI/ML integration in web applications
+- Contributing to open-source projects
+- Documenting my learning journey
 
-## 🌐 Connect with Me
+## Connect with Me
 
 
 
@@ -59,7 +59,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 </div>
 
-## 🌟 My Portfolio
+## 🌟 My Portfolio 🌟
 
 <div align="center">
 
