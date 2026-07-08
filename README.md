@@ -22,7 +22,10 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 ##  Tech Stack
 
-### Languages
+
+<div align="center">
+<h4><b>Languages</b></h4> 
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,8 +33,10 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
+</div>
 
-### Currently Learning
+
+## Currently Learning
 - **Python** - Expanding knowledge (Currently at 30% proficiency)
 - **AI/ML Concepts** - Through my CSE AIML curriculum
 - **Mobile App Development**
@@ -48,8 +53,6 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 ## Connect with Me
 
-
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridesh-thakur-762857167/)
@@ -61,7 +64,6 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 ##  My Portfolio 🌟
 
-
 <div align="center">
 <h4><b>Check out my live portfolio website:</b></h4>
   
@@ -69,10 +71,6 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
   
 </div>
 <div align="center">
-
-
-
-
   <h3>Thanks for visiting my profile! 😊</h3>
   <p>Feel free to reach out if you want to collaborate on any project or just want to connect!</p>  
 </div>
