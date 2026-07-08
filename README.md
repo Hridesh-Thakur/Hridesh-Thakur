@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+%26+App+Developer;CSE+AIML+Student;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
      
-## 🚀 About Me 
+##  About Me 
 
 I'm a passionate **Web & App Developer** and a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
 
@@ -14,13 +14,13 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 - I'm a CSE AIML student, passionate about the intersection of development and AI
 - Fun fact: I believe in learning by doing!
 
-## 🎓 Education
+##  Education
 
 **Lakshmi Narayana College of Technology**  
 *Bachelor of Technology - CSE (Artificial Intelligence & Machine Learning)*  
 *Currently Pursuing*
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 - **Advanced Web Technologies**
 
 
-## 💼 What I'm Working On
+##  What I'm Working On
 
 - Building responsive web applications
 - Exploring mobile app development
@@ -59,7 +59,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 </div>
 
-## 🌟 My Portfolio 🌟
+##  My Portfolio 🌟
 
 <div align="center">
 
