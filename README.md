@@ -92,7 +92,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 </div>
 
-##  My Portfolio 🌟
+##  My Portfolio 
 
 <div align="center">
 <h4><b>Check out my live portfolio website:</b></h4>
