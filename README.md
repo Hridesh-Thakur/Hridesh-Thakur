@@ -25,7 +25,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 <div align="center">
 
-<h4><b>Frontend</b></h4> 
+<h3><b>Frontend</b></h3> 
 
  &nbsp;
   
@@ -40,7 +40,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 
 
-<h4><b>Backend</b></h4> 
+<h3><b>Backend</b></h3> 
 &nbsp;
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -49,7 +49,7 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 
 
 
-<h4><b>Database</b></h4> 
+<h3><b>Database</b></h3> 
 &nbsp;
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
