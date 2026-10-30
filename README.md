@@ -98,6 +98,55 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 </div>
 
 
+</div>
+<h2>Featured Projects</h2>
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>What it is</th>
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> <strong>3D Earth</strong></td>
+<td>An interactive 3D Earth built for the browser</td>
+<td><a href="https://3dearth-nine.vercel.app">Live demo</a> · <a href="https://github.com/Hridesh-Thakur/3D-Earth">Code</a></td>
+</tr>
+<tr>
+<td> <strong>2D Solar System</strong></td>
+<td>An animated 2D model of the solar system</td>
+<td><a href="https://2dsolarsystem.vercel.app">Live demo</a> · <a href="https://github.com/Hridesh-Thakur/2D-Solar-System">Code</a></td>
+</tr>
+<tr>
+<td> <strong>Solar System Explorer</strong></td>
+<td>A full solar system built with only HTML &amp; CSS, no JavaScript</td>
+<td><a href="https://github.com/Hridesh-Thakur/Solar-System-Explorer">Code</a></td>
+</tr>
+<tr>
+<td> <strong>Rabbit Game</strong></td>
+<td>A 3D game where a rabbit jumps, collects carrots and avoids obstacles (HTML, CSS, JavaScript)</td>
+<td><a href="https://github.com/Hridesh-Thakur/Rabbit-Game">Code</a></td>
+</tr>
+<tr>
+<td> <strong>Drive &amp; Drive</strong></td>
+<td>A level-based car game with 100 stages and auto-saved progress</td>
+<td><a href="https://github.com/Hridesh-Thakur/Drive-Drive">Code</a></td>
+</tr>
+<tr>
+<td> <strong>Solve the Cube</strong></td>
+<td>An interactive 3D cube puzzle in pure HTML, CSS and JavaScript</td>
+<td><a href="https://github.com/Hridesh-Thakur/Solve-the-Cube">Code</a></td>
+</tr>
+<tr>
+<td> <strong>AirMouseVision</strong></td>
+<td>Turns a webcam into a hand-controlled mouse using computer vision (Python)</td>
+<td><a href="https://github.com/Hridesh-Thakur/AirMouseVision">Code</a></td>
+</tr>
+</tbody>
+</table>
+
 ## Currently Learning
 - **Python** - Expanding knowledge (Currently at 30% proficiency)
 - **AI/ML Concepts** - Through my CSE AIML curriculum
