@@ -6,7 +6,7 @@
 
 ##  About Me 
 
-I'm a passionate **Web & App Developer** and a Computer Science Engineering student specialising in **Artificial Intelligence & Machine Learning** at Lakshmi Narayana College of Technology. I love creating digital solutions and exploring the endless possibilities of technology.
+<p>I'm a <strong>Web &amp; App Developer</strong> and <strong>UI/UX designer</strong>, and a B.Tech student in <strong>Computer Science Engineering (Artificial Intelligence &amp; Machine Learning)</strong> at Lakshmi Narain College of Technology (LNCT), Bhopal. I like building interactive, user-friendly digital products and exploring where development meets AI.</p>
 
 - I'm currently working on expanding my web development skills
 - I'm currently learning advanced JavaScript concepts and Python for AI/ML
@@ -161,6 +161,8 @@ I'm a passionate **Web & App Developer** and a Computer Science Engineering stud
 - Learning AI/ML integration in web applications
 - Contributing to open-source projects
 - Documenting my learning journey
+  &nbsp;
+  &nbsp;
 
 ## Connect with Me
 
