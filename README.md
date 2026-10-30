@@ -98,54 +98,18 @@
 </div>
 
 
-</div>
-<h2>Featured Projects</h2>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>What it is</th>
-<th>Links</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> <strong>3D Earth</strong></td>
-<td>An interactive 3D Earth built for the browser</td>
-<td><a href="https://3dearth-nine.vercel.app">Live demo</a> · <a href="https://github.com/Hridesh-Thakur/3D-Earth">Code</a></td>
-</tr>
-<tr>
-<td> <strong>2D Solar System</strong></td>
-<td>An animated 2D model of the solar system</td>
-<td><a href="https://2dsolarsystem.vercel.app">Live demo</a> · <a href="https://github.com/Hridesh-Thakur/2D-Solar-System">Code</a></td>
-</tr>
-<tr>
-<td> <strong>Solar System Explorer</strong></td>
-<td>A full solar system built with only HTML &amp; CSS, no JavaScript</td>
-<td><a href="https://github.com/Hridesh-Thakur/Solar-System-Explorer">Code</a></td>
-</tr>
-<tr>
-<td> <strong>Rabbit Game</strong></td>
-<td>A 3D game where a rabbit jumps, collects carrots and avoids obstacles (HTML, CSS, JavaScript)</td>
-<td><a href="https://github.com/Hridesh-Thakur/Rabbit-Game">Code</a></td>
-</tr>
-<tr>
-<td> <strong>Drive &amp; Drive</strong></td>
-<td>A level-based car game with 100 stages and auto-saved progress</td>
-<td><a href="https://github.com/Hridesh-Thakur/Drive-Drive">Code</a></td>
-</tr>
-<tr>
-<td> <strong>Solve the Cube</strong></td>
-<td>An interactive 3D cube puzzle in pure HTML, CSS and JavaScript</td>
-<td><a href="https://github.com/Hridesh-Thakur/Solve-the-Cube">Code</a></td>
-</tr>
-<tr>
-<td> <strong>AirMouseVision</strong></td>
-<td>Turns a webcam into a hand-controlled mouse using computer vision (Python)</td>
-<td><a href="https://github.com/Hridesh-Thakur/AirMouseVision">Code</a></td>
-</tr>
-</tbody>
-</table>
+## Featured Projects
+ 
+| Project | What it is | Links |
+|---|---|---|
+|  **LUMO** | **L**anguage **U**nderstanding **M**ulti-model **O**peration, an AI app powered by Google's Gemini API (TypeScript, Vite, Electron, Python) | [Code](https://github.com/Hridesh-Thakur/Language-understanding-multi-model-operation) |
+|  **ReWear AI** | A sustainable fashion marketplace to buy, sell, exchange or donate pre-loved clothing, with user, shipper and admin dashboards and a virtual try-on preview (Supabase) | [Code](https://github.com/Hridesh-Thakur/Hack-Wave) |
+|  **Drive & Drive** | A physics-based car game with 100 unique levels, multiple vehicles and auto-saved progress | [Live demo](https://drive-drive.vercel.app) · [Code](https://github.com/Hridesh-Thakur/Drive-Drive) |
+|  **Solve the Cube** | An interactive 3D cube puzzle in pure HTML, CSS and JavaScript, with no external libraries | [Live demo](https://solve-the-cube-navy.vercel.app) · [Code](https://github.com/Hridesh-Thakur/Solve-the-Cube) |
+|  **AirMouseVision** | Turns your webcam into a hand-controlled mouse: move with your palm, click with a pinch, scroll by tilting your hand (Python, MediaPipe) | [Code](https://github.com/Hridesh-Thakur/AirMouseVision) |
+|  **Jarvis** | A voice-controlled AI assistant inspired by J.A.R.V.I.S., with speech recognition, conversational replies and a futuristic UI (HTML, CSS, JavaScript) | [Live demo](https://jarvisaimain.vercel.app) · [Code](https://github.com/Hridesh-Thakur/Jarvis-AI-main) |
+|  **Solar System Explorer** | Explore the planets and Pluto with distances, facts and moons, built with HTML and CSS | [Live demo](https://solar-system-explorer-pied.vercel.app) · [Code](https://github.com/Hridesh-Thakur/Solar-System-Explorer) |
+ 
 
 ## Currently Learning
 - **Python** - Expanding knowledge (Currently at 30% proficiency)
